@@ -9,6 +9,6 @@ HTML, CSS, Javascript
 
 https://bipan82gill.github.io/countdown/
 
-# Screenshot 
+# Demo
 
-!('./screenshot.jpg')
+![]('images/screenshot.jpg');
