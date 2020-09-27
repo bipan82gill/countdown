@@ -11,4 +11,4 @@ https://bipan82gill.github.io/countdown/
 
 # Demo
 
-![]('images/screenshot.jpg');
+![]('images/screenshot.jpg')
