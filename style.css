@@ -1,10 +1,10 @@
-@import url("https://images.unsplash.com/photo-1510554310709-f60fc3cf34e6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=667&q=80");
+/* @import url("https://images.unsplash.com/photo-1510554310709-f60fc3cf34e6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=667&q=80"); */
 
 *{
     box-sizing: border-box;
 }
 body{
-    background-image: url("https://images.unsplash.com/photo-1510554310709-f60fc3cf34e6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=667&q=80");
+    background-image: url("./countdown.jpg");
     font-family: "Poppins", sans-serif;
     color: white;
     margin: 0;
